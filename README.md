@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jacky Mong Marma</h1>
-<h3 align="center">A passionate Python, Machine Learning and Web Application Engineer from Bangladesh</h3>
+<h3 align="center">A passionate Python, Django Developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jackymong&label=Profile%20views&color=0e75b6&style=flat" alt="jackymong" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jackymong" alt="jackymong" /></a> </p>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47e0dq5uj8rflymhpj2ejapttjrqdq9bju30cwccfb&rid=giphy.gif&ct=g">
-
-- 🌱 I’m currently learning **Machine learning and Deep learning algorithms**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jackymong](https://github.com/Jackymong)
 
